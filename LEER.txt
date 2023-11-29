@@ -1,0 +1,7 @@
+Alumno: Danny mauricio Ochoa Montaña
+grupo: C19
+materia: Java I
+profesor: Mauricio Muñoz Guzman
+
+tema: entrega de las actividades realizadas en clase. desde actividad 1 hasta la 4.
+Se realiza el ejercicio opcional sobre los numeros primos.
